@@ -1,0 +1,1 @@
+# smart-band-7-khaki-strap
