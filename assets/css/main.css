@@ -1,9 +1,8 @@
-@import url(https://i02.appmifile.com/i18n/fonts/SukhumvitSet/vf/index.css);
-@import url(https://i02.appmifile.com/i18n/fonts/SukhumvitSet/woff2/index.css);
 .overview.div1 {
   align-items: flex-start;
   box-sizing: border-box;
 }
+
 .overview.div1,
 .overview.div1 .div2 {
   display: flex;
@@ -11,20 +10,24 @@
   justify-content: flex-start;
   width: 10rem;
 }
+
 .overview.div1 .div2 {
   align-items: center;
   margin-bottom: 1px;
   min-height: 5.476563rem;
 }
+
 .hairlines .overview.div1 .div2 {
   margin-bottom: 0.5px;
 }
+
 .overview.div1 .div2 .image3 {
   height: 5.476563rem;
   margin-bottom: -4.691406rem;
   width: 10rem;
   z-index: 0;
 }
+
 .overview.div1 .div2 .div4 {
   align-items: center;
   flex-direction: column;
@@ -37,7 +40,7 @@
   box-sizing: border-box;
   display: flex;
   justify-content: flex-start;
-  width: 4.683594rem;
+  width: 5.683594rem;
 }
 .overview.div1 .div2 .div4 .div5 {
   align-items: flex-start;
@@ -50,6 +53,7 @@
   margin-right: 0.132813rem;
   width: 1.527344rem;
   z-index: 2;
+  margin-top: 16px;
 }
 .overview.div1 .div2 .div4 .div5 .div7 {
   margin-left: -1.660156rem;
